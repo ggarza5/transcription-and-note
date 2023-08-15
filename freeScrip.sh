@@ -2,7 +2,7 @@
 
 count=0
 
-for file in ../recordings/*.mp3
+for file in ../recordings/230814/*.mp3
 do
     if [ $count -ge 1 ]
     then
